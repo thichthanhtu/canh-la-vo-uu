@@ -1,0 +1,36 @@
+---
+title: "Cành Lá Vô Ưu"
+author: "HT. Thích Thanh Từ"
+site: bookdown::bookdown_site
+fontsize: 12pt
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: serif
+        size: 4
+
+      search:
+            engine: fuse      
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+classoption: oneside
+
+description: "Cành Lá Vô Ưu - HT. Thích Thanh Từ"
+cover-image: "images/canh-la-vo-uu.jpg"
+---
+
+# Lời mở đầu {- #loi-mo-dau}
+
+Trong thời gian yên tu, những điều mắt thấy tai nghe có cảm hứng, chúng tôi viết lại thành tập sách nhỏ bé này, tựa đề là “*Cành Lá Vô Ưu*”. Vì trong lúc yên tu, chúng tôi không muốn để mất thời gian tra khảo, nên những chứng liệu trong đây nhớ đâu ghi đó chưa hẳn hoàn toàn chính xác. Chúng tôi viết những bài này với tư cách hành giả, chỉ muốn độc giả đọc hiểu để ứng dụng tu, chớ không phải học giả dẫn chứng liệu cụ thể cho người đọc dễ bề nghiên cứu. Bệnh của chúng tôi là, cái gì thấy hay, không thể ôm ấp trong lòng, mà phải phô bày cho mọi người cùng biết; cái gì cảm thấy có lợi ích cho cuộc sống đều trình bày ra cho mọi người được lợi ích. Có thể đây là bệnh chủ quan của chúng tôi, song có trình bày ra dù người đọc có thực hành hay không, lòng mình cũng cảm thấy an ổn.
+
+Mong các độc giả cảm thông với lòng chân thành của chúng tôi.
+
+<div class="align-right">
+Thiền viện Thường Chiếu  
+Ngày đầu xuân 1994,
+
+**Thích Thanh Từ**
+</div>
